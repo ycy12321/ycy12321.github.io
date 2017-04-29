@@ -1,7 +1,4 @@
----
-layout: post
-title: Welcome to Piggy House
----
+
 # Welcome to Piggy House
 This is house for my blog. Index....
 
