@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker
+title: Welcome page.
 ---
 
 # Welcome to Piggy House
