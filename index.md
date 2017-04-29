@@ -1,3 +1,6 @@
+---
+title： Welcome !
+---
 
 # Welcome to Piggy House
 This is house for my blog. Index....
