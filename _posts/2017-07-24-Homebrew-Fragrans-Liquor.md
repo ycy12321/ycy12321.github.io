@@ -13,4 +13,4 @@ fragrans flavor. It is not so difficult, but patience is a must. For many famous
 In most cased, after fernemation of rice, the combination of light ahcohol and sweet taste can be savory to tougue. But after distillation, more complex flavor can be added as your Patented beverage.
 
 Osmanthus fragrans, variously known as sweet osmanthus, sweet olive, tea olive, and fragrant olive, is a species native to Asia, which is famous for its unique franrance. Fragrans flower bud can be picked up and dried to make the flavor lasting for a long time.
-![Complete Project]({{ site.url }}/assets/2017-07-24-test-01.3gp)
+![Complete Project]({{ site.url }}/assets/VID_20170716_192721.3gp)
